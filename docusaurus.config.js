@@ -7,11 +7,11 @@ module.exports = {
   // tagline:
   //   "帮助你提升前端开发技能，分享 HTML、CSS、JavaScript、React 和 Vue 等开发实战经验",
   titleDelimiter: "-",
-  url: "https://zhangqiang.vercel.app",
+  url: "https://cwq-blog.vercel.app",
   baseUrl: "/",
   favicon: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4", // 网站图标
-  organizationName: "zhangqiang", // Usually your GitHub org/user name.
-  projectName: "zhangqiang.vercel.app", // Usually your repo name.
+  organizationName: "chenweiqiang", // Usually your GitHub org/user name.
+  projectName: "cwq-blog.vercel.app", // Usually your repo name.
   themeConfig: {
     // announcementBar: {
     //   id: "feature_release", // Any value that will identify this message.
@@ -52,7 +52,7 @@ module.exports = {
           ],
         },
         {
-          href: "https://github.com/JACK-ZHANG-coming/my-now-blog",
+          href: "https://github.com/CWQ-970815431/cwq-blog",
           label: "本站源码",
           position: "right",
         },
@@ -90,7 +90,7 @@ module.exports = {
           title: "社交媒体",
           items: [{
               label: "GitHub",
-              href: "https://github.com/JACK-ZHANG-coming",
+              href: "https://github.com/CWQ-970815431",
             },
             {
               label: "Bilibili 哔哩哔哩",
@@ -144,7 +144,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main",
+          editUrl: "https://github.com/CWQ-970815431/cwq-blog/blob/main",
           remarkPlugins: [math],
           rehypePlugins: [katex],
           showLastUpdateTime: true,
