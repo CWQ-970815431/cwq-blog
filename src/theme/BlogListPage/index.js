@@ -181,7 +181,7 @@ function BlogListPage(props) {
 
               </animated.p>
             )}
-            <SocialLinks animatedProps={animatedTexts[4]} />
+            {/*<SocialLinks animatedProps={animatedTexts[4]} />*/}
             <animated.div style={animatedTexts[2]}>
               <Button
                 isLink
@@ -348,13 +348,13 @@ function SocialLinks({ animatedProps, ...props }) {
   // const { isDarkTheme } = useThemeContext();
   return (
     <animated.div className="social__links" style={animatedProps}>
-      <a href="https://space.bilibili.com/299974236">
+      <a href="https://space.bilibili.com/2236119">
         <BilibiliIcon />
       </a>
       {/* <a href="https://www.linkedin.com/in/zxuqian/">
         <FontAwesomeIcon icon={faLinkedin} size="lg" />
       </a> */}
-      <a href="https://github.com/CWQ-970815431">
+      <a href="https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp">
         <FontAwesomeIcon icon={faGithub} size="lg" />
       </a>
       <a href="https://blog.csdn.net/weixin_43207103?spm=1000.2115.3001.5343">

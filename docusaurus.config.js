@@ -9,7 +9,7 @@ module.exports = {
   titleDelimiter: "-",
   url: "https://cwq-blog.vercel.app",
   baseUrl: "/",
-  favicon: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4", // 网站图标
+  favicon: "https://avatars.githubusercontent.com/u/71475868?s=40&u=8e47a668961f89a6389d9775cffdabddfda76e8c&v=4", // 网站图标
   organizationName: "chenweiqiang", // Usually your GitHub org/user name.
   projectName: "cwq-blog.vercel.app", // Usually your repo name.
   themeConfig: {
@@ -24,8 +24,8 @@ module.exports = {
       title: "潜心专研的小陈同学",
       logo: {
         alt: "潜心专研的小陈同学",
-        src: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
-        srcDark: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
+        src: "https://avatars.githubusercontent.com/u/71475868?s=40&u=8e47a668961f89a6389d9775cffdabddfda76e8c&v=4",
+        srcDark: "https://avatars.githubusercontent.com/u/71475868?s=40&u=8e47a668961f89a6389d9775cffdabddfda76e8c&v=4",
       },
       items: [{
           type: "localeDropdown",
@@ -52,7 +52,7 @@ module.exports = {
           ],
         },
         {
-          href: "https://github.com/CWQ-970815431/cwq-blog",
+          href: "https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp/cwq-blog",
           label: "本站源码",
           position: "right",
         },
@@ -90,11 +90,11 @@ module.exports = {
           title: "社交媒体",
           items: [{
               label: "GitHub",
-              href: "https://github.com/CWQ-970815431",
+              href: "https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp",
             },
             {
               label: "Bilibili 哔哩哔哩",
-              href: "https://space.bilibili.com/299974236",
+              href: "https://space.bilibili.com/2236119",
             },
           ],
         },
@@ -144,7 +144,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/CWQ-970815431/cwq-blog/blob/main",
+          editUrl: "https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp/cwq-blog/blob/main",
           remarkPlugins: [math],
           rehypePlugins: [katex],
           showLastUpdateTime: true,

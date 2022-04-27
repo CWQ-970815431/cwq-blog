@@ -7,8 +7,8 @@ slug: <%= name %>
 title: <%= name %>
 author: 潜心专研的小陈同学
 author_title: 前端工程师 / B站UP主
-author_url: https://github.com/CWQ-970815431
-author_image_url: `https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4`
+author_url: https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp
+author_image_url: `https://avatars.githubusercontent.com/u/71475868?s=40&u=8e47a668961f89a6389d9775cffdabddfda76e8c&v=4`
 description: 请输入描述
 tags: [前端, React]
 # activityId: 相关动态 ID
@@ -19,7 +19,7 @@ tags: [前端, React]
 12121
 <!-- truncate -->
 
-# 链接： [源码：Github - React-Examples](https://github.com/CWQ-970815431/cwq-blog)
+# 链接： [源码：Github - React-Examples](https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp/cwq-blog)
 # 生成命令 hygen blog new [博客名称]
 
 
