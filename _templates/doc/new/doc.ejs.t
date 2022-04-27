@@ -1,20 +1,13 @@
 ---
-to: docs/react-examples/<%= name %>/index.md
+to: docs/<%= name %>.md
 ---
-
 ---
-title: 
+slug: <%= name %>
+title: <%= name %>
+author_image_url: `https://avatars.githubusercontent.com/u/71475868?s=40&u=8e47a668961f89a6389d9775cffdabddfda76e8c&v=4`
 sidebar_label: 
-description: 
+description:
+tags: <%= tags %>
 ---
 
-import ButtonDemo from "./ButtonDemo";
-import BVideo from "../../../src/components/BVideo";
 
-## 视频
-
-<BVideo src="//player.bilibili.com/player.html?aid=96612743&cid=164934942&page=1" bsrc="https://www.bilibili.com/video/av96612743/"/>
-
-## 效果
-
-<ButtonDemo />

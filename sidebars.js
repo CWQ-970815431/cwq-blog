@@ -39,13 +39,15 @@ module.exports = {
     type: 'category',
     label: 'css(1)',
     items: [
-      "css/01第一个css"
+      "css/最常考CSS水平垂直居中-五种工作常用方法"
     ]
   },
   {
     type: 'category',
-    label: 'javascript(0)',
-    items: []
+    label: 'javascript(3)',
+    items: ["javascript/JavaScript中this的四种指向情况",
+            "javascript/JS中的原型模式",
+            "javascript/JS中字符串与数组的关系"]
   },
   {
     type: 'category',
