@@ -101,14 +101,7 @@ module.exports = {
         },
         {
           title: "友情链接",
-          items: [{
-              label: "yuqing521のblog",
-              to: "https://yuqing521.github.io/",
-            },
-            {
-              label: "lookroot的个人空间",
-              to: "https://www.lookroot.cn/",
-            },
+          items: [
             {
               label: "峰华前端工程师",
               to: "https://zxuqian.cn",

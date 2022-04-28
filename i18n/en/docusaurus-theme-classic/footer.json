@@ -19,14 +19,6 @@
     "message": "Tencent Class",
     "description": "The label of footer link with label=腾讯课堂 linking to https://ke.qq.com/course/2839093?tuin=3850fdc6"
   },
-  "link.item.label.yuqing521のblog": {
-    "message": "yuqing521のblog",
-    "description": "The label of footer link with label=yuqing521のblog linking to https://yuqing521.github.io/"
-  },
-  "link.item.label.lookroot的个人空间": {
-    "message": "lookroot",
-    "description": "The label of footer link with label=lookroot的个人空间 linking to https://www.lookroot.cn/"
-  },
   "copyright": {
     "message": "Copyright © 2021 Jack Zhang Built with Docusaurus.<p></p>",
     "description": "The footer copyright"
