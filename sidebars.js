@@ -42,13 +42,24 @@ module.exports = {
       "css/最常考CSS水平垂直居中-五种工作常用方法"
     ]
   },
-  {
-    type: 'category',
-    label: 'javascript(3)',
-    items: ["javascript/JavaScript中this的四种指向情况",
-            "javascript/JS中的原型模式",
-            "javascript/JS中字符串与数组的关系"]
-  },
+    {
+      type: 'category',
+      label: 'JavaScript',
+      items: [
+        'javascript/JavaScript文档引言',
+        {
+          type: 'category',
+          label: 'this相关',
+          items: ["javascript/JavaScript中this的四种指向情况",
+            "javascript/JS中的原型模式",]
+        },
+        {
+          type: 'category',
+          label: '数据类型',
+          items: ["javascript/JS中字符串与数组的关系"]
+        },
+      ],
+    },
   {
     type: 'category',
     label: 'react(0)',
