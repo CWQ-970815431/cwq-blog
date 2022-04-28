@@ -115,7 +115,7 @@ function BlogListPage(props) {
             <animated.div style={animatedTexts[0]} className="hero_text">
               <Translate description="hero greet">Hello! 我是</Translate>
               <span className="intro__name">
-                <Translate description="my name">潜心专研的小陈同学</Translate>
+                <Translate description="my name">坚持学习的小陈同学</Translate>
               </span>
             </animated.div>
             <animated.p style={animatedTexts[1]}>
