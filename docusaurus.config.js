@@ -52,7 +52,7 @@ module.exports = {
           ],
         },
         {
-          href: "https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp/cwq-blog",
+          href: "https://github.com/CWQ-970815431/cwq-blog",
           label: "本站源码",
           position: "right",
         },

@@ -181,7 +181,7 @@ function BlogListPage(props) {
 
               </animated.p>
             )}
-            {/*<SocialLinks animatedProps={animatedTexts[4]} />*/}
+            <SocialLinks animatedProps={animatedTexts[4]} />
             <animated.div style={animatedTexts[2]}>
               <Button
                 isLink
@@ -354,13 +354,13 @@ function SocialLinks({ animatedProps, ...props }) {
       {/* <a href="https://www.linkedin.com/in/zxuqian/">
         <FontAwesomeIcon icon={faLinkedin} size="lg" />
       </a> */}
-      <a href="https://i2.hdslb.com/bfs/face/9d7aad773fd142dc3fc75886008d41d2ecedb3f1.jpg@160w_160h_1c_1s.webp">
+      <a href="https://github.com/CWQ-970815431/cwq-blog">
         <FontAwesomeIcon icon={faGithub} size="lg" />
       </a>
-      <a href="https://blog.csdn.net/weixin_43207103?spm=1000.2115.3001.5343">
+      <a href="https://blog.csdn.net/chenweiqiang77?spm=1019.2139.3001.5343">
         <CSDNIcon />
       </a>
-      <a href="https://juejin.cn/user/1451011082041517/posts">
+      <a href="https://juejin.cn/user/1214297809889623">
         <JueJinIcon />
       </a>
       <div className="dropdown dropdown--hoverable">
@@ -368,7 +368,7 @@ function SocialLinks({ animatedProps, ...props }) {
         <img
           width="50%"
           className="dropdown__menu"
-          src='https://z3.ax1x.com/2021/05/16/g2S51s.jpg'//{useBaseUrl("/img/publicQR.webp")}
+          src='https://s1.ax1x.com/2022/04/28/LOBiFA.jpg'//{useBaseUrl("/img/publicQR.webp")}
         />
       </div>
     </animated.div>

@@ -1,4 +1,3 @@
-
 ---
 slug: 最常考CSS水平垂直居中-五种工作常用方法
 title: 最常考CSS水平垂直居中-五种工作常用方法
@@ -12,7 +11,7 @@ tags: [CSS]
 # bvid: 相关视频 ID（与 activityId 2选一）
 # oid: oid
 --- 
-
+<!-- truncate -->
 # 最常考CSS水平垂直居中
 
 1. 首先是最简单的定位方法
