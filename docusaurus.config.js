@@ -44,10 +44,11 @@ module.exports = {
         {
           label: "小工具",
           position: "right",
-          items: [{
-              label: "简易的rap参数转ts格式工具",
-              to: "https://jack-zhang-coming.github.io/rap-to-ts/",
-            },
+          items: [
+              {
+                  label:'九宫棋小游戏',
+                  to:"sudoku"
+              }
 
           ],
         },
