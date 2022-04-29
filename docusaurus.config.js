@@ -38,7 +38,7 @@ module.exports = {
         // },
         {
           to: "docs/all-intro",
-          label: "专属学习笔记",
+          label: "前端笔记",
           position: "right",
         },
         {

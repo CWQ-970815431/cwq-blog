@@ -2,6 +2,7 @@
 id: JavaScript文档引言
 title: JavaScript文档引言
 sidebar_label: JavaScript文档引言
+
 ---
 
 **"前端,有手就行;JavaScript太简单了，看一眼就会了...."**
