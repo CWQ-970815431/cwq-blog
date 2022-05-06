@@ -62,8 +62,16 @@ module.exports = {
     },
   {
     type: 'category',
-    label: 'react(0)',
-    items: []
+    label: 'LeetCode',
+    items: [
+      'leetcode/LeetCode文档引言',
+      {
+        type: 'category',
+        label: '数组',
+        items: ["leetcode/array/删除排序数组中的重复项",
+         ]
+      },
+    ],
   },
   {
     type: 'category',
