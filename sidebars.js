@@ -69,6 +69,8 @@ module.exports = {
         type: 'category',
         label: '数组',
         items: ["leetcode/array/删除排序数组中的重复项",
+            "leetcode/array/买卖股票的最佳时机 II",
+            "leetcode/array/旋转数组"
          ]
       },
     ],
