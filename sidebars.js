@@ -73,6 +73,9 @@ module.exports = {
             "leetcode/array/旋转数组",
             "leetcode/array/存在重复元素",
             "leetcode/array/只出现一次的数字",
+            "leetcode/array/两个数组的交集II",
+            "leetcode/array/加一",
+            "leetcode/array/移动零",
          ]
       },
     ],
