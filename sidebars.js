@@ -76,6 +76,7 @@ module.exports = {
             "leetcode/array/两个数组的交集II",
             "leetcode/array/加一",
             "leetcode/array/移动零",
+            "leetcode/array/两数之和",
          ]
       },
     ],
