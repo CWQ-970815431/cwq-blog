@@ -81,6 +81,12 @@ module.exports = {
             "leetcode/array/旋转图像",
          ]
       },
+      {
+        type: 'category',
+        label: '字符串',
+        items: ["leetcode/string/反转字符串",
+        ]
+      },
     ],
   },
   {
