@@ -77,6 +77,8 @@ module.exports = {
             "leetcode/array/加一",
             "leetcode/array/移动零",
             "leetcode/array/两数之和",
+            "leetcode/array/有效的数独",
+            "leetcode/array/旋转图像",
          ]
       },
     ],
