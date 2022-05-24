@@ -85,6 +85,8 @@ module.exports = {
         type: 'category',
         label: '字符串',
         items: ["leetcode/string/反转字符串",
+                "leetcode/string/整数反转",
+                "leetcode/string/有效的字母异位词",
         ]
       },
     ],
