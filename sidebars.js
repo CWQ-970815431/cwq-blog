@@ -87,6 +87,8 @@ module.exports = {
         items: ["leetcode/string/反转字符串",
                 "leetcode/string/整数反转",
                 "leetcode/string/有效的字母异位词",
+                "leetcode/string/字符串中的第一个唯一字符",
+                "leetcode/string/实现strStr",
         ]
       },
     ],
