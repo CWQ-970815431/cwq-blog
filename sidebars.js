@@ -95,8 +95,8 @@ module.exports = {
   },
   {
     type: 'category',
-    label: '微信小程序(0)',
-    items: []
+    label: 'Vue',
+    items: ["vue/Vue响应式原理以及实现"]
   },
   {
     type: 'category',
