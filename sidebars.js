@@ -96,7 +96,8 @@ module.exports = {
   {
     type: 'category',
     label: 'Vue',
-    items: ["vue/Vue响应式原理以及实现"]
+    items: ["vue/Vue响应式原理以及实现",
+            "vue/Vue渲染函数原理以及实践",]
   },
   {
     type: 'category',
