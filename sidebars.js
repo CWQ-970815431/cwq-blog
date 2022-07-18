@@ -97,7 +97,13 @@ module.exports = {
     type: 'category',
     label: 'Vue',
     items: ["vue/Vue响应式原理以及实现",
-            "vue/Vue渲染函数原理以及实践",]
+            "vue/Vue渲染函数原理以及实践",
+            "vue/Vue高阶组件的原理以及实践",
+            "vue/VueX原理解析以及实现一个简单的Vuex",
+            "vue/Vue3响应式原理解析以及实践（上）",
+            "vue/Vue3响应式原理解析以及实践（下）",
+            "vue/Vue3 ref的原理解析以及实践",
+    ]
   },
   {
     type: 'category',
